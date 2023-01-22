@@ -1,0 +1,1 @@
+# RateixStaticWebsiteTest.github.io
